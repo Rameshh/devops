@@ -369,7 +369,7 @@
                         <dependencies>
                             <dependency>
                                 <groupId>com.edurekademo.tutorial</groupId>
-                                <artifactId>addressbook</artifactId>
+                                <artifactId>addressbook-${BUILD_NUMBER}</artifactId>
                                 <version>${BUILD_NUMBER}</version>
                             </dependency>
                         </dependencies>
